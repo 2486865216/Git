@@ -1,6 +1,3 @@
 hello world git!java 
 hello world git!java 
-hello world git!java 
-hello world git!java 
-hello world git!java 
-hello world git!java 
+hello world git!React 
